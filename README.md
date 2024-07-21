@@ -1,6 +1,6 @@
 # Conway's Game of Life
 
-This project is an implementation of [Conway's Game of Life](https://playgameoflife.com) using Vite, React, TypeScript, and Tailwind CSS. It features a responsive design and intuitive controls for an engaging user experience.
+This project is an implementation of [Conway's Game of Life](https://playgameoflife.com) using Vite, React, TypeScript, and Tailwind CSS. It features a intuitive controls for an engaging user experience.
 
 ## Features
 
